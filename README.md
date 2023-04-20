@@ -23,7 +23,7 @@ on your machine, you can just use *pip* command to this.
 -> pip install gTTS
 ```
 
-**Note**: Installing pytesseeract can be an issue sometimes, so there ways in which you could do this effectively, to see how I recommend you going through the article [How to convert image to sound in Python ](https://kalebujordan.com/image-to-sound-in-python/)
+**Note**: Installing pytesseeract can be an issue sometimes, so there ways in which you could do this effectively, to see how I recommend you going through the article 
 .
 
 
