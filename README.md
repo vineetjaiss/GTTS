@@ -36,6 +36,4 @@ to change it adjust the it to be the your new image name.
 
 
 
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
+STAR & FORK THE REPO
